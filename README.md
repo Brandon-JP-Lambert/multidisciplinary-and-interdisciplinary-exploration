@@ -11,6 +11,22 @@ This repository contains five prompt templates designed to generate multi-discip
 - Versatile prompts: The templates can be easily adapted for any topic, making them suitable for a wide range of research, educational, or creative purposes.
 - Easy integration with Generative AI tools: The prompt templates can be effortlessly used with popular AI tools, such as ChatGPT, for quick and effective multi-disciplinary exploration.
 
+## Usage
+
+To utilize the multi-disciplinary prompt templates provided in this repository, follow the steps below:
+
+1. Choose one of the prompt templates from the available options. Each template is designed to explore a topic from multiple academic disciplines or interdisciplinary perspectives.
+
+2. Copy the chosen prompt template and replace `[topic]` with the specific subject you wish to explore.
+
+3. Paste the modified prompt into a generative AI tool, such as ChatGPT.
+
+4. Generate a response using the AI tool. The tool will produce a comprehensive response based on its training data and the input topic.
+
+5. Review the generated outputs, which can be used for various purposes, including research, education, or creative exploration. Keep in mind that the outputs may require manual adjustments to ensure accuracy and alignment with your specific needs.
+
+Please note that the quality and accuracy of the generated responses depend on both the user input and the AI technology's limitations. As the user, it is your responsibility to evaluate the responses for relevance and appropriateness for your specific context.
+
 ## Prompt Templates:
 
 ### Prompt 1: Explore a Topic from Multiple Disciplines
@@ -86,22 +102,6 @@ Identify 5 potential synergies and 5 potential conflicts between their perspecti
 3. Conflicting perspectives on the value and impact of technologicalinnovation in renewable energy.
 4. Disagreements on the distribution of benefits and burdens related to renewable energy development, such as access to resources and infrastructure.
 5. Conflicting views on the role of market forces versus government intervention in promoting renewable energy adoption and addressing social and environmental concerns.
-
-## Usage
-
-To utilize the multi-disciplinary prompt templates provided in this repository, follow the steps below:
-
-1. Choose one of the prompt templates from the available options. Each template is designed to explore a topic from multiple academic disciplines or interdisciplinary perspectives.
-
-2. Copy the chosen prompt template and replace `[topic]` with the specific subject you wish to explore.
-
-3. Paste the modified prompt into a generative AI tool, such as ChatGPT.
-
-4. Generate a response using the AI tool. The tool will produce a comprehensive response based on its training data and the input topic.
-
-5. Review the generated outputs, which can be used for various purposes, including research, education, or creative exploration. Keep in mind that the outputs may require manual adjustments to ensure accuracy and alignment with your specific needs.
-
-Please note that the quality and accuracy of the generated responses depend on both the user input and the AI technology's limitations. As the user, it is your responsibility to evaluate the responses for relevance and appropriateness for your specific context.
 
 ## License
 
