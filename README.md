@@ -89,7 +89,19 @@ Identify 5 potential synergies and 5 potential conflicts between their perspecti
 
 ## Usage
 
-To use these prompt templates, simply copy and paste the desired prompt into a generative AI tool like ChatGPT. The tool will generate a unique and comprehensive response to the prompt based on its training data and the input topic. The generated outputs can be used for research, education, or any other purpose that requires a multi-disciplinary perspective on a given topic.
+To utilize the multi-disciplinary prompt templates provided in this repository, follow the steps below:
+
+1. Choose one of the prompt templates from the available options. Each template is designed to explore a topic from multiple academic disciplines or interdisciplinary perspectives.
+
+2. Copy the chosen prompt template and replace `[topic]` with the specific subject you wish to explore.
+
+3. Paste the modified prompt into a generative AI tool, such as ChatGPT.
+
+4. Generate a response using the AI tool. The tool will produce a comprehensive response based on its training data and the input topic.
+
+5. Review the generated outputs, which can be used for various purposes, including research, education, or creative exploration. Keep in mind that the outputs may require manual adjustments to ensure accuracy and alignment with your specific needs.
+
+Please note that the quality and accuracy of the generated responses depend on both the user input and the AI technology's limitations. As the user, it is your responsibility to evaluate the responses for relevance and appropriateness for your specific context.
 
 ## License
 
